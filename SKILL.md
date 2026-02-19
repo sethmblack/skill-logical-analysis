@@ -3,8 +3,9 @@ name: logical-analysis
 description: Decompose complex statements into their logical components to determine whether they are meaningful, true, false, or confused.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4402
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - logical-analysis
 - transformation
